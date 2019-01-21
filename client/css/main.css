@@ -1,0 +1,28 @@
+.avatar-container{
+    position: relative;
+}
+.avatar-container{
+    position: absolute;
+    left: -25px;
+    top: -25px;
+}
+.avatar-left{
+    margin-right: 75px;
+    margin-left: 25px;
+}
+.avatar-right{
+    margin-left: 75px;
+}
+.avatar-left, .avatar-right{
+    margin-top: 25px;
+}
+.feedbackbubble div{
+    margin-left: 75px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+#Onboard_View_1, #Onboard_View_2, #Onboard_View_3, #Onboard_View_4, #Onboard_View_5{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 105vh;
+}
